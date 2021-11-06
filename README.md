@@ -1,2 +1,4 @@
 # Arabic-hand-written-charcter-recognition
-Recognize Arabic hand written charcters using computer vision 
+You're given images of handwritten Arabic characters and you're required to recognize the character.
+
+The dataset provided in this competition is obtained from : https://www.kaggle.com/mloey1/ahcd1
